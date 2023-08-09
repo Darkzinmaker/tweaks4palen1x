@@ -25,6 +25,9 @@ A list of tweaks that you can use without risk of damaging your device, with jai
 - I Cleaner : Can clean up your iphone
 - Carrierizer2 : Customize your carrier
 - wonderfull status bar : Change the color off status bar
+- Watusi 3 : A tweak for whatsapp
+- TouchFlow Pro : Adds a ball, which shows the moves made
+- Frame : Doesnt work wallpaper setter, but have a list off wallpapers that you can use
 
 
 ## Credits
